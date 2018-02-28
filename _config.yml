@@ -9,7 +9,7 @@
 title: TEsT
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-THis is a Test
+ This is a Test
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
